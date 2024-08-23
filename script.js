@@ -1,6 +1,6 @@
 (function() {
     // EmailJS'i başlat
-    emailjs.init('VVZvHX8p7UeYXyDQP');
+    emailjs.init('service_hrabkdj');
 
     document.getElementById('emailForm').addEventListener('submit', function(event) {
         event.preventDefault();
